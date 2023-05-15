@@ -9,4 +9,4 @@ community_bridge: # single Community Bridge project-name e.g., cloud-foundry
 liberapay: # single Liberapay username
 issuehunt: # single IssueHunt username
 otechie: # single Otechie username
-custom: [https://www.buymeacoffee.com/cbaker6] # Rsingle custom sponsorship URL
+custom: https://www.buymeacoffee.com/cbaker6 # Rsingle custom sponsorship URL
