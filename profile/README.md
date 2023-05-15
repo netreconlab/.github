@@ -1,6 +1,6 @@
 ### About NetReconLab
 
-- 🔭 The [Network Reconnaissance Lab (NetReconLab)](https://github.com/netreconlab) is directed by @cbaker6 at the [University of Kentucky](http://www.engr.uky.edu/research-faculty/departments/computer-science)
+- 🔭 The [Network Reconnaissance Lab (NetReconLab)](https://github.com/netreconlab) is directed by [@cbaker6](https://github.com/cbaker6/cbaker6) at the [University of Kentucky](http://www.engr.uky.edu/research-faculty/departments/computer-science)
 - 👯 We are open to collaborating on medical based research applications that operate when the Internet is availabe, limited, or non-existant (check out [ParseCareKit](https://github.com/netreconlab/ParseCareKit) for more info)
 - 📫 How to reach us: <baker@cs.uky.edu>
 
