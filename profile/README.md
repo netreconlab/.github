@@ -1,6 +1,6 @@
 ### About NetReconLab
 
-- 🔭 @cbaker6 is the director of the [Network Reconnaissance Lab (NetReconLab)](https://github.com/netreconlab) at the [University of Southern California](https://minghsiehece.usc.edu) (Starting January 2024). Located at [University of Kentucky](http://www.engr.uky.edu/research-faculty/departments/computer-science) until December 2023
+- 🔭 [@cbaker6](https://github.com/cbaker6) is the director of the [Network Reconnaissance Lab (NetReconLab)](https://github.com/netreconlab) at the [University of Southern California](https://minghsiehece.usc.edu) (Starting January 2024). Located at [University of Kentucky](http://www.engr.uky.edu/research-faculty/departments/computer-science) until December 2023
 - 👯 Looking to collaborate on medical based research applications that operate when the Internet is availabe, limited, or non-existant (check out [ParseCareKit](https://github.com/netreconlab/ParseCareKit) for more info)
 - 📫 How to reach Corey: <c.baker@usc.edu>
 
